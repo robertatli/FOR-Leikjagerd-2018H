@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Player
   - 
   - 
   - 
@@ -41,6 +41,9 @@ TagManager:
   - name: background
     uniqueID: 4229154381
     locked: 0
+  - name: scenery
+    uniqueID: 3270225745
+    locked: 0
   - name: middleground
     uniqueID: 1004912187
     locked: 0
@@ -50,6 +53,6 @@ TagManager:
   - name: foreground
     uniqueID: 2582896123
     locked: 0
-  - name: blocks
+  - name: player
     uniqueID: 2145617647
     locked: 0
