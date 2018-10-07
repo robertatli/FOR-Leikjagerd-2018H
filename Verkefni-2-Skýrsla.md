@@ -6,6 +6,9 @@
 2. Leikmaðurinn á að geta ferðast á milli Inverted og normal state til að leysa jumping puzzles þar sem ákveðnir platformar verða bara sjáanlegir í sitthvoru state-i.
 
 ![InvertedPlayer](/Verkefni-2-Leikjaforritun/playerInverted.png)![NormalPlayer](/Verkefni-2-Leikjaforritun/Playerv2.png)
+
+#### Myndband af spilun
+https://youtu.be/CwCcjPsZ73s
    
 #### Heimildir
 Ég notaði ekki tutorial sem fór í það að byggja leik nákvæmlega eftir því tutoriali, ég frekar hugsaði um hvað ég vildi bæta við í leikinn og leitaði svo að góðri leið til að gera það, hvort sem ég fékk það frá youtube eða frá Unity forums eða StackOverflow eða eitthvað því líkt.
