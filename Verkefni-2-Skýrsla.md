@@ -13,12 +13,15 @@
 En það voru nokkur myndbönd sem hjálpuðu mér með það að læra hvernig ég myndi bæta við ákveðnum hlutum fyrir leikinn minn.
 
 https://www.youtube.com/watch?v=aV-XNjE_P90&list=PLa5_l08N9jzN6RpyixHkXP90IW6gaVVV1 
+
 Í þessum playlista hjá Youtuber sem notar mjög þæginlegann kóða, notaði ég t.d. Interaction og smooth camera tutorialin.
 
 https://www.youtube.com/watch?v=ge9XMrKx8m8
+
 Ég fór eftir þessu myndbandi til að læra að nota ParticleSystemið sem er í Unity, til að búa til blóð effect.
 
 https://www.youtube.com/user/Brackeys
+
 Þessi er líka góður en notar stundum óþæginlegann kóða sem er ekki auðlesinn, Ég notaði kóðann hanns fyrir FlipSprite til að flipa player sprite eftir hvert ég var að ferðast.
 
 #### Næstu Skref:
