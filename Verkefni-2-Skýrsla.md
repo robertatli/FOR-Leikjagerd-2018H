@@ -8,7 +8,7 @@
 ![InvertedPlayer](/Verkefni-2-Leikjaforritun/playerInverted.png)![NormalPlayer](/Verkefni-2-Leikjaforritun/Playerv2.png)
    
 #### Heimildir
-Ég notaði ekki tutorial sem fór í það að byggja leik akkurat eftir honum,  ég frekar hugsaði um hvað ég vildi bæta við í leikinn og leitaði svo að góðri leið til að gera það, hvort sem ég fékk það frá youtube eða frá Unity forums eða StackOverflow eða eitthvað því líkt.
+Ég notaði ekki tutorial sem fór í það að byggja leik nákvæmlega eftir því tutoriali, ég frekar hugsaði um hvað ég vildi bæta við í leikinn og leitaði svo að góðri leið til að gera það, hvort sem ég fékk það frá youtube eða frá Unity forums eða StackOverflow eða eitthvað því líkt.
 
 En það voru nokkur myndbönd sem hjálpuðu mér með það að læra hvernig ég myndi bæta við ákveðnum hlutum fyrir leikinn minn.
 
