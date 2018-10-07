@@ -28,3 +28,4 @@ https://www.youtube.com/user/Brackeys
 1. Bæta við fleiri levelum og láta kallinn geta interactað við portalið til að ferðast milli levelea.
 2. bæta fleiri hljóðum inn og kannski bakgrunns tónlist.
 3. Bæta við Inverted state og levelum sem þyrfti að nota bæði inverted og normal state.
+4. mögulega bæta movement kóðann og bæta við fleiri movement leiðum. 
