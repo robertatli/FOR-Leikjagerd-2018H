@@ -4,7 +4,8 @@
 1. Leikurinn er 2d platformer þar sem leikmaðurinn þarf að forðast hættur og komast í endamark.
    * Leikurinn akkurat nuna er eingöngu með hættur sem geta drepið leikmanninn og lykil sem leikmaðurinn þarf að ná í til að opna hurðina til að komast á næsta borð. Spilað er með wasd, spacebar og e til að taka upp hluti.
 2. Leikmaðurinn á að geta ferðast á milli Inverted og normal state til að leysa jumping puzzles.
-![InvertedPlayer]()![NormalPlayer]()
+
+![InvertedPlayer]()![NormalPlayer](FOR-Leikjagerd-2018H/Verkefni-2-Leikjaforritun/Playerv2.png)
    
 #### Heimildir
 Ég notaði ekki tutorial sem fór í það að byggja leik akkurat eftir honum,  ég frekar hugsaði um hvað ég vildi bæta við í leikinn og leitaði svo að góðri leið til að gera það, hvort sem ég fékk það frá youtube eða frá Unity forums eða StackOverflow eða eitthvað því líkt.
