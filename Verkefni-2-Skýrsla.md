@@ -14,7 +14,7 @@ En það voru nokkur myndbönd sem hjálpuðu mér með það að læra hvernig 
 
 https://www.youtube.com/watch?v=aV-XNjE_P90&list=PLa5_l08N9jzN6RpyixHkXP90IW6gaVVV1 
 
-Í þessum playlista hjá Youtuber sem notar mjög þæginlegann kóða, notaði ég t.d. Interaction og smooth camera tutorialin.
+Í þessum playlista eru nokkur vídeó se ég notaði t.d. Interaction og smooth camera tutorialin. Þessi Youtuber er með mjög þæginlegann kóða og útskýrir vel hvað allt gerir hjá sér.
 
 https://www.youtube.com/watch?v=ge9XMrKx8m8
 
